@@ -32,6 +32,10 @@ This suggests that Uniswap v3 usage is **stickier than volume alone would imply*
 
 **Note:** Wallets represent addresses, not unique users.
 
+
+#dashboard
+https://dune.com/akp_m/uniswap-v3-protocol-health?utm_source=share&utm_medium=copy&utm_campaign=dashboard
+
 ---
 
 ## 🧾 SQL
@@ -39,3 +43,5 @@ The core query aggregates daily protocol usage metrics:
 
 ```sql
 -- see sql/uniswap_v3_daily_metrics.sql
+
+#------------------------------------------------------------------------------------------------------------
